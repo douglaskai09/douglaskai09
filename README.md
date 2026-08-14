@@ -26,6 +26,11 @@ My work sits between business operations and implementation: define the real out
 
 ## Featured work
 
+### McClure Student Launch Pilot
+**[Live Pilot](https://mcclure-student-launch.vercel.app)**
+
+A student-facing college and career planning companion built as an independent pilot for McClure Health & Science High School. It combines McClure pathways, academic/transcript entry, certification tracking, dual enrollment, healthcare branches, Path Scan, college and training comparisons, Georgia funding resources, multiple postsecondary routes, career discovery, next-action missions, and pathway/grades/cost-based recommendations. The pilot is designed to supplement — not replace — counselors, Naviance, FAFSA, GAfutures, or official GCPS systems.
+
 ### College Path Planner
 [Repository](https://github.com/DouglasHollingsworth/college-path-planner-demo) · **[Live Demo](https://douglashollingsworth.github.io/college-path-planner-demo/)**
 
