@@ -25,6 +25,10 @@ My work focuses on the layer between business operations and implementation: und
 
 ## Featured work
 
+### [AI Client Portal Demo](https://github.com/douglaskai09/ai-client-portal-demo)
+
+A working client-portal demonstration built around project state, task ownership, approval gates, activity history, and an AI-style executive brief. The public version uses demo-safe browser storage and a protected-entry simulation while documenting the production path to Next.js, Supabase Auth, PostgreSQL, row-level security, server-side AI calls, and durable audit records.
+
 ### [AI Lead Workflow Demo](https://github.com/douglaskai09/ai-lead-workflow-demo)
 
 **[▶ Try the live demo](https://douglaskai09.github.io/ai-lead-workflow-demo/)**
@@ -58,8 +62,8 @@ A successful build is not simply code that compiles. It should solve the intende
 
 ## Next portfolio builds
 
-- Next.js + Supabase client portal
-- small AI-powered internal tools
-- focused CRM / approval automations
+- AI document / meeting processor
+- business KPI / operations dashboard
+- focused API integration demo
 
 These demos are designed to be inspectable, deployable, and easy for clients to understand quickly.
