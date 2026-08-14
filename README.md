@@ -23,9 +23,13 @@ My work focuses on the layer between business operations and implementation: und
 **AI:** OpenAI, Anthropic, structured outputs, shared context, model routing  
 **Delivery:** GitHub, Vercel, production configuration, test and verification workflows
 
-## Featured case study
+## Featured work
 
-### [AI Venture & Business Operating System](https://github.com/douglaskai09/ai-business-os-case-study)
+### [AI Lead Workflow Demo](https://github.com/douglaskai09/ai-lead-workflow-demo)
+
+A working public demo showing lead intake, duplicate prevention, qualification scoring, transparent reasoning, follow-up drafting, human approval, pipeline metrics, and workflow activity. The public version deliberately uses a deterministic qualification engine so no API secrets are exposed in browser code; the repository documents the server-side AI upgrade path.
+
+### [AI Venture & Business Operating System — Case Study](https://github.com/douglaskai09/ai-business-os-case-study)
 
 A sanitized case study of a private multi-module AI business operating system covering business discovery, validation, CRM, marketing, finance, website workflows, first-customer execution, AI-team orchestration, shared business context, AI usage/cost tracking, quota controls, and production guardrails.
 
@@ -50,13 +54,10 @@ My workflow emphasizes:
 
 A successful build is not simply code that compiles. It should solve the intended business problem, fail safely, be understandable after handoff, and avoid unnecessary operational complexity.
 
-## Portfolio direction
+## Next portfolio builds
 
-Additional public demonstration projects will focus on:
-
-- AI lead qualification and workflow automation
-- CRM / approval pipelines
-- Next.js + Supabase client portals
+- Next.js + Supabase client portal
 - small AI-powered internal tools
+- focused CRM / approval automations
 
 These demos are designed to be inspectable, deployable, and easy for clients to understand quickly.
