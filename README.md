@@ -25,6 +25,10 @@ My work focuses on the layer between business operations and implementation: und
 
 ## Featured work
 
+### [College Path Planner Demo](https://github.com/douglaskai09/college-path-planner-demo)
+
+A universal student-planning demonstration that turns a fictional academic profile into major directions, reach/target/likely college strategy, funding priorities, application tasks, and a next-best-action plan. Recommendations are explainable and the repository documents how a production version would add authenticated student/family workspaces, verified external data, source-aware AI, deadlines, scholarships, and aid/benefit tracking.
+
 ### [AI Meeting Processor Demo](https://github.com/douglaskai09/ai-meeting-processor-demo)
 
 **[▶ Try the live demo](https://douglaskai09.github.io/ai-meeting-processor-demo/)**
