@@ -27,27 +27,27 @@ My work sits between business operations and implementation: define the real out
 ## Featured work
 
 ### College Path Planner
-[Repository](https://github.com/douglaskai09/college-path-planner-demo) · **[Live Demo](https://douglaskai09.github.io/college-path-planner-demo/)**
+[Repository](https://github.com/DouglasHollingsworth/college-path-planner-demo) · **[Live Demo](https://douglashollingsworth.github.io/college-path-planner-demo/)**
 
 A universal student-planning system that converts an academic profile into major directions, reach/target/likely college strategy, funding priorities, application tasks, and a next-best-action plan. Recommendations are explainable, with a documented production path for authenticated family workspaces, verified external data, scholarships, deadlines, and aid tracking.
 
 ### AI Meeting Processor
-[Repository](https://github.com/douglaskai09/ai-meeting-processor-demo) · **[Live Demo](https://douglaskai09.github.io/ai-meeting-processor-demo/)**
+[Repository](https://github.com/DouglasHollingsworth/ai-meeting-processor-demo) · **[Live Demo](https://douglashollingsworth.github.io/ai-meeting-processor-demo/)**
 
 Turns meeting notes or transcripts into a structured decision package: executive summary, decisions, action items, owners, deadlines, risks, follow-up, human approval, JSON export, and a processing audit. Explicit and inferred fields are separated rather than presented with false certainty.
 
 ### AI Client Portal
-[Repository](https://github.com/douglaskai09/ai-client-portal-demo) · **[Live Demo](https://douglaskai09.github.io/ai-client-portal-demo/)**
+[Repository](https://github.com/DouglasHollingsworth/ai-client-portal-demo) · **[Live Demo](https://douglashollingsworth.github.io/ai-client-portal-demo/)**
 
 A client-facing project portal built around project state, task ownership, approval gates, activity history, and an AI-style executive brief. The public version is demo-safe while documenting the production path to Next.js, Supabase Auth, PostgreSQL, row-level security, server-side AI, and durable audit records.
 
 ### AI Lead Workflow
-[Repository](https://github.com/douglaskai09/ai-lead-workflow-demo) · **[Live Demo](https://douglaskai09.github.io/ai-lead-workflow-demo/)**
+[Repository](https://github.com/DouglasHollingsworth/ai-lead-workflow-demo) · **[Live Demo](https://douglashollingsworth.github.io/ai-lead-workflow-demo/)**
 
 A lead-conversion workflow covering intake, duplicate prevention, qualification scoring, transparent reasoning, follow-up drafting, human approval, pipeline metrics, and activity history. The public version uses deterministic qualification logic so API secrets and proprietary scoring are not exposed in browser code.
 
 ### AI Venture & Business Operating System — Case Study
-[Case Study](https://github.com/douglaskai09/ai-business-os-case-study)
+[Case Study](https://github.com/DouglasHollingsworth/ai-business-os-case-study)
 
 A sanitized case study of a private multi-module AI business operating system covering business discovery, validation, CRM, marketing, finance, website workflows, first-customer execution, AI-team orchestration, shared business context, AI usage/cost tracking, quota controls, and production guardrails.
 
