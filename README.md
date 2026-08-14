@@ -58,6 +58,16 @@ A sanitized case study of a private multi-module AI business operating system co
 
 The production repository remains private. The public case study documents architecture, engineering decisions, debugging examples, verification practices, and production reliability without exposing proprietary source code, prompts, credentials, or internal scoring logic.
 
+### Local Service Business Growth System — Alpha Armor AutoSpa
+[Case Study](ALPHA_ARMOR_CASE_STUDY.md)
+
+A real-world local-service transformation covering service-package structure, recurring fleet offers, commercial customer segmentation, pricing presentation, before/after interaction design, future product merchandising, responsive navigation, Vercel deployment, custom-domain configuration, and live-site debugging. The case study shows the full path from business model and offer design through implementation and delivery while keeping production source private.
+
+### Vehicle Business Opportunity Planner
+[Case Study](VEHICLE_BUSINESS_PLANNER_CASE_STUDY.md)
+
+A picture-first planning concept that matches vehicle capabilities to realistic income opportunities and simple business economics. The project demonstrates asset/capability modeling, business-rule design, financial simplification, user-centered UX decisions, and translating an open-ended entrepreneurial idea into a reusable decision system.
+
 ## Engineering approach
 
 **Understand → Architect → Build → Verify → Ship → Learn**
