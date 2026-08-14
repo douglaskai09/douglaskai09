@@ -26,15 +26,15 @@ My work sits between business operations and implementation: define the real out
 
 ## Featured work
 
+### Student Launch — Universal School Platform
+[Repository](https://github.com/DouglasHollingsworth/college-path-planner-demo) · **[Live Demo](https://douglashollingsworth.github.io/college-path-planner-demo/)**
+
+A reusable college, career, and postsecondary planning platform built around one student-planning core plus configurable school editions. Students can enter academics and transcript data, run a career/major Path Scan, compare postsecondary routes, explore colleges and training, estimate funding/net cost, and follow a next-action mission queue. School branding, pathways, readiness checks, official links, local funding context, school codes, languages, and pilot disclaimers are configuration-driven so a new school can be added without rebuilding the product.
+
 ### McClure Student Launch Pilot
 **[Live Pilot](https://mcclure-student-launch.vercel.app)**
 
-A student-facing college and career planning companion built as an independent pilot for McClure Health & Science High School. It combines McClure pathways, academic/transcript entry, certification tracking, dual enrollment, healthcare branches, Path Scan, college and training comparisons, Georgia funding resources, multiple postsecondary routes, career discovery, next-action missions, and pathway/grades/cost-based recommendations. The pilot is designed to supplement — not replace — counselors, Naviance, FAFSA, GAfutures, or official GCPS systems.
-
-### College Path Planner
-[Repository](https://github.com/DouglasHollingsworth/college-path-planner-demo) · **[Live Demo](https://douglashollingsworth.github.io/college-path-planner-demo/)**
-
-A universal student-planning system that converts an academic profile into major directions, reach/target/likely college strategy, funding priorities, application tasks, and a next-best-action plan. Recommendations are explainable, with a documented production path for authenticated family workspaces, verified external data, scholarships, deadlines, and aid tracking.
+The first configured school edition of Student Launch, built as an independent pilot for McClure Health & Science High School. It layers McClure pathways, academic/transcript entry, Georgia funding resources, school readiness checks, official counseling/Naviance links, multiple postsecondary routes, and student next actions onto the reusable Student Launch core. The pilot is designed to supplement — not replace — counselors, Naviance, FAFSA, GAfutures, or official GCPS systems.
 
 ### AI Meeting Processor
 [Repository](https://github.com/DouglasHollingsworth/ai-meeting-processor-demo) · **[Live Demo](https://douglashollingsworth.github.io/ai-meeting-processor-demo/)**
