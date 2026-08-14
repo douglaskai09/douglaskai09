@@ -1,16 +1,17 @@
-# Douglas — AI Systems Builder
+# Douglas Hollingsworth
+### AI Systems Builder · Primus Systems
 
-I build AI-enabled business systems that turn messy workflows into working software.
+I design and build AI-enabled systems that turn messy business workflows into usable software.
 
-My work focuses on the layer between business operations and implementation: understanding the real problem, designing the system, directing AI-assisted development, integrating the required services, testing failure cases, and shipping a usable result.
+My work sits between business operations and implementation: define the real outcome, design the system, direct AI-assisted development, integrate the required services, test failure cases, and ship something a client can actually use.
 
 ## What I build
 
 - AI-powered internal tools
-- workflow automations
+- workflow automation
 - CRM and lead systems
 - AI agents and orchestration
-- Next.js / React web applications
+- Next.js / React applications
 - Supabase-backed products
 - dashboards and business operating systems
 - API integrations
@@ -25,31 +26,28 @@ My work focuses on the layer between business operations and implementation: und
 
 ## Featured work
 
-### [College Path Planner Demo](https://github.com/douglaskai09/college-path-planner-demo)
+### College Path Planner
+[Repository](https://github.com/douglaskai09/college-path-planner-demo) · **[Live Demo](https://douglaskai09.github.io/college-path-planner-demo/)**
 
-**[▶ Try the live demo](https://douglaskai09.github.io/college-path-planner-demo/)**
+A universal student-planning system that converts an academic profile into major directions, reach/target/likely college strategy, funding priorities, application tasks, and a next-best-action plan. Recommendations are explainable, with a documented production path for authenticated family workspaces, verified external data, scholarships, deadlines, and aid tracking.
 
-A universal student-planning demonstration that turns a fictional academic profile into major directions, reach/target/likely college strategy, funding priorities, application tasks, and a next-best-action plan. Recommendations are explainable and the repository documents how a production version would add authenticated student/family workspaces, verified external data, source-aware AI, deadlines, scholarships, and aid/benefit tracking.
+### AI Meeting Processor
+[Repository](https://github.com/douglaskai09/ai-meeting-processor-demo) · **[Live Demo](https://douglaskai09.github.io/ai-meeting-processor-demo/)**
 
-### [AI Meeting Processor Demo](https://github.com/douglaskai09/ai-meeting-processor-demo)
+Turns meeting notes or transcripts into a structured decision package: executive summary, decisions, action items, owners, deadlines, risks, follow-up, human approval, JSON export, and a processing audit. Explicit and inferred fields are separated rather than presented with false certainty.
 
-**[▶ Try the live demo](https://douglaskai09.github.io/ai-meeting-processor-demo/)**
+### AI Client Portal
+[Repository](https://github.com/douglaskai09/ai-client-portal-demo) · **[Live Demo](https://douglaskai09.github.io/ai-client-portal-demo/)**
 
-A working demonstration that turns meeting notes or transcripts into a structured decision package: executive summary, decisions, action items, owners, deadlines, risks, follow-up, human approval, JSON export, and a processing audit. The public version labels explicit versus inferred fields and documents the production path to server-side structured AI extraction and business-system integrations.
+A client-facing project portal built around project state, task ownership, approval gates, activity history, and an AI-style executive brief. The public version is demo-safe while documenting the production path to Next.js, Supabase Auth, PostgreSQL, row-level security, server-side AI, and durable audit records.
 
-### [AI Client Portal Demo](https://github.com/douglaskai09/ai-client-portal-demo)
+### AI Lead Workflow
+[Repository](https://github.com/douglaskai09/ai-lead-workflow-demo) · **[Live Demo](https://douglaskai09.github.io/ai-lead-workflow-demo/)**
 
-**[▶ Try the live demo](https://douglaskai09.github.io/ai-client-portal-demo/)**
+A lead-conversion workflow covering intake, duplicate prevention, qualification scoring, transparent reasoning, follow-up drafting, human approval, pipeline metrics, and activity history. The public version uses deterministic qualification logic so API secrets and proprietary scoring are not exposed in browser code.
 
-A working client-portal demonstration built around project state, task ownership, approval gates, activity history, and an AI-style executive brief. The public version uses demo-safe browser storage and a protected-entry simulation while documenting the production path to Next.js, Supabase Auth, PostgreSQL, row-level security, server-side AI calls, and durable audit records.
-
-### [AI Lead Workflow Demo](https://github.com/douglaskai09/ai-lead-workflow-demo)
-
-**[▶ Try the live demo](https://douglaskai09.github.io/ai-lead-workflow-demo/)**
-
-A working public demo showing lead intake, duplicate prevention, qualification scoring, transparent reasoning, follow-up drafting, human approval, pipeline metrics, and workflow activity. The public version deliberately uses a deterministic qualification engine so no API secrets are exposed in browser code; the repository documents the server-side AI upgrade path.
-
-### [AI Venture & Business Operating System — Case Study](https://github.com/douglaskai09/ai-business-os-case-study)
+### AI Venture & Business Operating System — Case Study
+[Case Study](https://github.com/douglaskai09/ai-business-os-case-study)
 
 A sanitized case study of a private multi-module AI business operating system covering business discovery, validation, CRM, marketing, finance, website workflows, first-customer execution, AI-team orchestration, shared business context, AI usage/cost tracking, quota controls, and production guardrails.
 
@@ -57,26 +55,12 @@ The production repository remains private. The public case study documents archi
 
 ## Engineering approach
 
-I use AI aggressively during development, but I do not treat generated code as verified code.
+**Understand → Architect → Build → Verify → Ship → Learn**
 
-My workflow emphasizes:
-
-1. problem and outcome definition
-2. architecture and system boundaries
-3. AI-assisted implementation
-4. root-cause debugging
-5. build / lint / test verification
-6. live workflow testing
-7. security and failure-mode review
-8. clean documentation and handoff
+I use AI aggressively during development, but I do not treat generated code as verified code. Important actions have clear boundaries, failure states are designed intentionally, and client-facing systems are documented for handoff.
 
 ## What I care about
 
 A successful build is not simply code that compiles. It should solve the intended business problem, fail safely, be understandable after handoff, and avoid unnecessary operational complexity.
 
-## Next portfolio builds
-
-- business KPI / operations dashboard
-- focused API integration demo
-
-These demos are designed to be inspectable, deployable, and easy for clients to understand quickly.
+— **Douglas Hollingsworth · Primus Systems**
