@@ -25,6 +25,10 @@ My work focuses on the layer between business operations and implementation: und
 
 ## Featured work
 
+### [AI Meeting Processor Demo](https://github.com/douglaskai09/ai-meeting-processor-demo)
+
+A working demonstration that turns meeting notes or transcripts into a structured decision package: executive summary, decisions, action items, owners, deadlines, risks, follow-up, human approval, JSON export, and a processing audit. The public version labels explicit versus inferred fields and documents the production path to server-side structured AI extraction and business-system integrations.
+
 ### [AI Client Portal Demo](https://github.com/douglaskai09/ai-client-portal-demo)
 
 **[▶ Try the live demo](https://douglaskai09.github.io/ai-client-portal-demo/)**
@@ -64,7 +68,6 @@ A successful build is not simply code that compiles. It should solve the intende
 
 ## Next portfolio builds
 
-- AI document / meeting processor
 - business KPI / operations dashboard
 - focused API integration demo
 
