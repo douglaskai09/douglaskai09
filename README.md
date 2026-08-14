@@ -27,6 +27,8 @@ My work focuses on the layer between business operations and implementation: und
 
 ### [AI Lead Workflow Demo](https://github.com/douglaskai09/ai-lead-workflow-demo)
 
+**[▶ Try the live demo](https://douglaskai09.github.io/ai-lead-workflow-demo/)**
+
 A working public demo showing lead intake, duplicate prevention, qualification scoring, transparent reasoning, follow-up drafting, human approval, pipeline metrics, and workflow activity. The public version deliberately uses a deterministic qualification engine so no API secrets are exposed in browser code; the repository documents the server-side AI upgrade path.
 
 ### [AI Venture & Business Operating System — Case Study](https://github.com/douglaskai09/ai-business-os-case-study)
