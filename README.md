@@ -27,6 +27,8 @@ My work focuses on the layer between business operations and implementation: und
 
 ### [AI Client Portal Demo](https://github.com/douglaskai09/ai-client-portal-demo)
 
+**[▶ Try the live demo](https://douglaskai09.github.io/ai-client-portal-demo/)**
+
 A working client-portal demonstration built around project state, task ownership, approval gates, activity history, and an AI-style executive brief. The public version uses demo-safe browser storage and a protected-entry simulation while documenting the production path to Next.js, Supabase Auth, PostgreSQL, row-level security, server-side AI calls, and durable audit records.
 
 ### [AI Lead Workflow Demo](https://github.com/douglaskai09/ai-lead-workflow-demo)
